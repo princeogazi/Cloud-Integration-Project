@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+/* Additional styling for the map container if needed */
+.map-container {
+  height: 400px;
+  width: 80%;
+  margin: 20px auto;
+}
+
+#square {
+  align-self: center;
+}
